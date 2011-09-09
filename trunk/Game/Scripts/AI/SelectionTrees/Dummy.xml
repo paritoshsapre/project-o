@@ -1,0 +1,5 @@
+<SelectionTrees>
+	<SelectionTree name="Dummy" type="BehaviorSelectionTree">
+		<Leaf name="DummyBehaviorThatShouldNotExist" />
+	</SelectionTree>
+</SelectionTrees>
